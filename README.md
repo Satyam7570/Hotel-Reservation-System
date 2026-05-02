@@ -1,1 +1,19 @@
 # Hotel-Reservation-System
+
+## Technologies used
+- Java Swing
+- JDBC
+- MySQL
+
+## Description
+This is a desktop-based application developed using Java Swing that allows users to manage hotel room bookings efficiently.
+
+## Features
+
+- Add Customer Details
+- Room Booking System
+- Employee Management
+- Database Connectivity using JDBC
+
+## Author
+Satyam Gupta
