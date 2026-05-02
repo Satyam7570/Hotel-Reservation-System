@@ -15,5 +15,10 @@ This is a desktop-based application developed using Java Swing that allows users
 - Employee Management
 - Database Connectivity using JDBC
 
+## Requirements
+- MySQL installed
+- JDBC Driver (included in the lib folder)
+
 ## Author
 Satyam Gupta
+
