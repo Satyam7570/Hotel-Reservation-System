@@ -18,6 +18,7 @@ This is a desktop-based application developed using Java Swing that allows users
 ## Requirements
 - MySQL installed
 - JDBC Driver (included in the lib folder)
+- rs2xml.jar - used to display database ResultSet data in JTable.
 
 ## Author
 Satyam Gupta
